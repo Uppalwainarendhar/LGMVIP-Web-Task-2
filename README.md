@@ -2,6 +2,13 @@
 
 This is project whcih can fetch the data from (https://reqres.in/api/users?page=1)
 
+
+First install npm:
+
+### 'npm install'
+
+This command intalls npm in your meachine.
+
 ## Available Scripts
 
 In the project directory, you can run:
